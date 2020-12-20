@@ -1,0 +1,32 @@
+## TODO ##
+
+Selasa : UI + Backend Register
+Rabu : UI + Backend Login
+Kamis : UI + Backend Home page
+Jumat : UI + Backend Doctor page
+Sabtu : UI + Backend Chat room
+Minggu : Fixing Bug
+
+
+## KENYATAAN ##
+Selasa : UI Login + UI Register
+Rabu : UI & Backend Chat room + UI & Backend Doctor page
+Kamis : Backend Register
+
+
+## not done ##
+Backend Register
+Backend Login
+UI + Backend Home page
+
+
+## Want To ##
+Kamis : Backend Login + Backend Register
+Jumat : Backend Doctor page
+Sabtu : Backend Chat room
+Minggu : tidur
+
+
+membuat file baru untuk navigateview
+dari loginpage navigatornya ke navigateview
+isi navigateview if else role
